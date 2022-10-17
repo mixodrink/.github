@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Mixo, here you will find all the coding resources, documentation and general information.
+Welcome to MIXO, MIXO is the first automatic bar that mixes drinks, with a built-in payment system and the capacity to serve up to 500 drinks, each one in approximately 15 seconds.
 
 **Here are some ideas to get you started:**
 
